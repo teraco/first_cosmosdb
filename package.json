@@ -1,0 +1,24 @@
+{
+  "name": "first_cosmosdb",
+  "version": "1.0.0",
+  "description": "## first_cosmosdb",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/cosmos": "^2.1.1",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teraco/first_cosmosdb.git"
+  },
+  "author": "teraco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teraco/first_cosmosdb/issues"
+  },
+  "homepage": "https://github.com/teraco/first_cosmosdb#readme"
+}
